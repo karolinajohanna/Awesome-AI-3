@@ -61,6 +61,7 @@
 | [Cohesive](https://cohesive.so/?ref=awe50meAI) |     Create magical content with the most powerful AI editor  |
 | [grammarly](https://www.grammarly.com/?ref=awe50meAI) |     Compose bold, clear, mistake-free writing with Grammarly’s AI-powered writing assistant.  |
 | [copy ai](https://www.copy.ai/?ref=awe50meAI) |     Write better marketing copy and content with AI  |
+| [Soffos.ai](https://www.soffos.ai/)        | The Soffos Generative AI platform is a revolutionary solution that empowers software developers as well as everyday users to effortlessly create AI solutions.
 | [jasper AI](https://www.jasper.ai/?ref=awe50meAI) |     Jasper - AI Copywriting & Content Generation for Teams  |
 | [markcopy ai](https://www.markcopy.ai/?ref=awe50meAI) |     Write Content 10x Faster  |
 | [rytr](https://rytr.me/?ref=awe50meAI) |     Rytr - Best AI Writer, Content Generator & Writing Assistant  |
